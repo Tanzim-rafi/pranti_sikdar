@@ -46,7 +46,7 @@ img {
     background-clip: text;
     color: transparent;
     font-size: 35px;
-    font-weight: 7px;
+    font-weight: 10px;
     font-family: sans-serif;
     -webkit-animation: reveal 0ms ease-in-out forwards 500ms, glow 1000ms linear infinite 2000ms;
             animation: reveal 0ms ease-in-out forwards 500ms, glow 1000ms linear infinite 2000ms;
